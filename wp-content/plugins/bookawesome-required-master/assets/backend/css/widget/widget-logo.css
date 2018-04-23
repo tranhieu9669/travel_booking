@@ -1,0 +1,21 @@
+.lookawesome-logo-wrap {
+    margin-top: 14px;
+}
+.lookawesome-logo-image {
+	border: 1px dashed #b4b9be;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 20px;
+    padding: 9px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background: #f1f1f1;
+}
+.lookawesome-logo-buttons {
+	width: auto;
+    height: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    white-space: normal;
+}
